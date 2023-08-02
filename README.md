@@ -1,15 +1,7 @@
-# premier-portfolio
+# portfolio
 
-That's "First portfolio" in French ✨
-
-## Screenshot 📸
-
-![Israel Mitolu portfolio screenshot](./assets/img/seo-img.png)
-
-## Live Site 🚀
-
-[Preview the website here](https://israelmitolu.netlify.app).
+portfolio_Desenvolvido para fims de estudo✨
 
 ## Tools 🔨
 
-Built using HTML, CSS(SCSS), Javascript and GSAP
+Desenvolvido em HTML, CSS(SCSS), Javascript e GSAP
